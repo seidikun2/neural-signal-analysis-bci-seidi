@@ -18,9 +18,9 @@ moabb.set_log_level("info")
 SCRIPT_DIR       = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR          = os.path.join(SCRIPT_DIR, "results_grid")
 DATA_DIR         = r"/media/seidi/hd_seidi/dados_stieger"
-SUBJECTS         = list(range(1, 25))
+SUBJECTS         = list(range(1, 20))
 SESSIONS_USE     = [7]
-INTERVAL         = [0.0, 2.75]
+INTERVAL         = [-2.0, 2.75]
 RESAMPLE_HZ      = 128
 MAX_SPLITS       = 5
 SEED             = 42
