@@ -1,0 +1,3 @@
+dataset,stage,pipeline,session,t_train,n_train
+BNCI2014-001,idle_gate,RiemannTS+SVM_gate,0train,178.8400565239972,11599
+BNCI2014-001,task,RiemannTS+SVM_task,0train,43.76747030499973,5755

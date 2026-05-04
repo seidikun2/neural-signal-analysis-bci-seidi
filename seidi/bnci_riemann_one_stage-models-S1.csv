@@ -1,0 +1,5 @@
+dataset,mode,stage,pipeline,t_train,n_train
+BNCI2014-001,all,one_stage,RiemannTS+SVM_task,18.425582545001816,3248
+BNCI2014-001,tasks_only,task,RiemannTS+SVM_task,8.39996012100164,1609
+BNCI2014-001,all,one_stage,RiemannTS+SVM_task,18.875376850002795,3248
+BNCI2014-001,tasks_only,task,RiemannTS+SVM_task,8.060727814001439,1609
